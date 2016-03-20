@@ -49,7 +49,7 @@ namespace PCPDownloader
             //oops
             catch
             {
-                //continue even if there is an error
+                //continue
             }
         }
     }
